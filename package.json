@@ -1,0 +1,25 @@
+{
+  "name": "trim-and-shave",
+  "version": "1.0.0",
+  "description": "The CSS barber.",
+  "main": "lib/cli.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrijnberk/trim-and-shave.git"
+  },
+  "keywords": [
+    "CSS",
+    "Postprocessor",
+    "Dedupe",
+    "Clean"
+  ],
+  "author": "Richard Rijnberk <r.rijnberk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrijnberk/trim-and-shave/issues"
+  },
+  "homepage": "https://github.com/rrijnberk/trim-and-shave#readme"
+}
