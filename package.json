@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/rrijnberk/trim-and-shave/issues"
   },
-  "homepage": "https://github.com/rrijnberk/trim-and-shave#readme"
+  "homepage": "https://github.com/rrijnberk/trim-and-shave#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "glob": "^7.1.3"
+  },
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.10",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^7.1.1"
+  }
 }

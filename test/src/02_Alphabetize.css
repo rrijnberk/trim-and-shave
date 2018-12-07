@@ -1,0 +1,29 @@
+.abc.def .ghi {
+}
+
+.def.abc .ghi {
+}
+
+input.abc.def {
+}
+
+input.def.abc {
+}
+
+input.abc.def .ghi.jkl {
+}
+
+input.abc.def .jkl.ghi {
+}
+
+div.abc.def input.ghi.jkl {
+}
+
+div.abc.def input.jkl.ghi {
+}
+
+div#def.abc {
+}
+
+div.abc#def {
+}
